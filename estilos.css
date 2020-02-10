@@ -1,0 +1,15 @@
+
+.btn-text-color-title {
+  background-color: #563d7c !important;
+  border-color: #563d7c !important;
+}
+
+.btn-text-color-title:hover {
+  background-color: #3C2A57 !important;
+  border-color: #3C2A57 !important;
+}
+
+.campoNome {
+   width: 150px;
+   max-width: 150px;
+}

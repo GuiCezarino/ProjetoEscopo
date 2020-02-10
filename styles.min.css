@@ -1,3 +1,7 @@
+.conteudo {
+  margin-right: 30px;
+}
+
 @media (min-width: 768px) {
   .conteudo {
     margin-left: 220px;
@@ -33,11 +37,6 @@
 
 .text-color-title {
   color: #563d7c;
-}
-
-.btn-text-color-title {
-  background-color: #563d7c !important;
-  border-color: #563d7c !important;
 }
 
 .img-login {
@@ -283,10 +282,13 @@
     transform-style: preserve-3d;
   }
 
-
-
 @media (max-width: 767px) {
   .conteudo {
     margin-left: 30px;
   }
+}
+
+.card {
+    background: rgba(255,255,255,0.6);
+    box-shadow: 0px 0px 8px #333;
 }
